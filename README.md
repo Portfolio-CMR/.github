@@ -6,11 +6,10 @@ Welcome to **Data Dialogue**, my GitHub portfolio where I narrate the ongoing st
 
 Hello, I'm Colton, a data enthusiast with a deep passion for understanding and interpreting the dynamic nature of data. Through my work, I strive to reveal the cyclical patterns and evolving trends that help businesses and communities thrive. Join me in this dialogue with data, where each project is a chapter in a larger narrative.
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me 📧
 
-- **LinkedIn**: [linkedin.com/in/coltonrobbins](https://linkedin.com/in/coltonrobbins)
-- **Twitter**: [@ColtonR_Data](https://twitter.com/ColtonR_Data)
-- **Email**: [colton.robbins@email.com](mailto:colton.robbins@email.com)
+- [**LinkedIn** 🔗](https://www.linkedin.com/in/colton-robbins73/)
+- [**Email** ✉️](mailto:coltonrobbins73@gmail.com)
 
 ---
 
